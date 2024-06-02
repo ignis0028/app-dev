@@ -1,1 +1,2 @@
-My first repository.
+Hi!
+This our very first repository.
